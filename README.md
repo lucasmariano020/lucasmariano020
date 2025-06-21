@@ -25,8 +25,9 @@ Always learning and improving my skills.
   <img align="center" alt="C++" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />
   <img align="center" alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
   <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="SQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" />
   <img align="center" alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
   <img align="center" alt="VS Code" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+  
+  <img align="center" alt="SQL" height="30" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="Power Platform" height="30" src="https://img.shields.io/badge/Power%20Platform-0099F7?style=for-the-badge&logo=microsoft-powerapps&logoColor=white" />
 </div>
