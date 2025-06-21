@@ -15,16 +15,19 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Lucas 👋
 
-Information Systems student at the **University of São Paulo (USP)**.  
-Interested in **full stack development** and building complete web solutions.  
+I'm an Information Systems student at the **University of São Paulo (USP)** with a solid technical background.  
+Currently, I specialize in **Robotic Process Automation (RPA)** using Microsoft Power Platform to optimize business processes.  
+I have a strong interest in **full stack development**.
+
 Always learning and improving my skills.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" alt="Power Platform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerapps/powerapps-plain.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
+  <img align="center" alt="VBA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vba/vba-plain.svg" />
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Power BI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-plain.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
   <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 </div>
